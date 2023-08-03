@@ -1,4 +1,4 @@
-__author__ = 'AHolland'
+__author__ = 'AHollands'
 
 from Prog import add
 add.delay(4,4)
